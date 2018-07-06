@@ -1,11 +1,9 @@
-# 
 - Follow Lynda Course: Learning React.js
-
-# Track
 
 # TODO
 - [ ] Chapter 02
-  + [ ] React Syntaxt
+  + [x] React Syntax
+  + [ ] Introducing JSX
 - [ ] Chapter 03
 - [ ] Chapter 04
 - [ ] Chapter 05
