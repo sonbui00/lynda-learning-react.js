@@ -8,8 +8,10 @@
   + [x] Create stateless component
   + [x] Using properties
   + [x] Using state
-- [ ] Chapter 03
-  + [ ] Using create-react-app
+- [x] Chapter 03
+  + [x] Using create-react-app
+  + [x] Generating a React project
 - [ ] Chapter 04
+  + [ ] Handling events
 - [ ] Chapter 05
 - [ ] Chapter 06
