@@ -17,7 +17,7 @@
   + [x] Using refs
   + [x] Adding child elements
 - [ ] Chapter 05
-  + [ ] Update notes
+  + [x] Update notes
   + [ ] Remove notes
   + [ ] Addint notes
 - [ ] Chapter 06
