@@ -18,6 +18,6 @@
   + [x] Adding child elements
 - [ ] Chapter 05
   + [x] Update notes
-  + [ ] Remove notes
+  + [x] Remove notes
   + [ ] Addint notes
 - [ ] Chapter 06
