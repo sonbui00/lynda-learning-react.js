@@ -12,6 +12,9 @@
   + [x] Using create-react-app
   + [x] Generating a React project
 - [ ] Chapter 04
-  + [ ] Handling events
+  + [x] Handling events
+  + [ ] Adding state to Note component
+  + [ ] Using refs
+  + [ ] Adding child elements
 - [ ] Chapter 05
 - [ ] Chapter 06
