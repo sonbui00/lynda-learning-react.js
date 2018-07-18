@@ -16,8 +16,14 @@
   + [x] Adding state to Note component
   + [x] Using refs
   + [x] Adding child elements
-- [ ] Chapter 05
+- [x] Chapter 05
   + [x] Update notes
   + [x] Remove notes
-  + [ ] Addint notes
+  + [x] Adding notes
 - [ ] Chapter 06
+  + [ ] Overview of the component lifecycle
+  + [ ] Updating components
+  + [ ] Loading data
+  + [ ] Style enhancements
+  + [ ] Launching the Bulletin Board app
+- [ ] Next steps
