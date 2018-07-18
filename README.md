@@ -14,7 +14,7 @@
 - [ ] Chapter 04
   + [x] Handling events
   + [x] Adding state to Note component
-  + [ ] Using refs
+  + [x] Using refs
   + [ ] Adding child elements
 - [ ] Chapter 05
 - [ ] Chapter 06
