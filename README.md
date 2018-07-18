@@ -13,7 +13,7 @@
   + [x] Generating a React project
 - [ ] Chapter 04
   + [x] Handling events
-  + [ ] Adding state to Note component
+  + [x] Adding state to Note component
   + [ ] Using refs
   + [ ] Adding child elements
 - [ ] Chapter 05
