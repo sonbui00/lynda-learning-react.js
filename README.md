@@ -22,7 +22,7 @@
   + [x] Adding notes
 - [ ] Chapter 06
   + [x] Overview of the component lifecycle
-  + [ ] Updating components
+  + [x] Updating components
   + [ ] Loading data
   + [ ] Style enhancements
   + [ ] Launching the Bulletin Board app
