@@ -26,4 +26,7 @@
   + [x] Loading data
   + [x] Style enhancements
   + [x] Launching the Bulletin Board app
-- [ ] Next steps
+- [x] Next steps
+  + React.js Essential Training
+  + Learning React Native with Alex Banks
+  + Learning React VR with Emmanuel Henri
