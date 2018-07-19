@@ -24,6 +24,6 @@
   + [x] Overview of the component lifecycle
   + [x] Updating components
   + [x] Loading data
-  + [ ] Style enhancements
+  + [x] Style enhancements
   + [ ] Launching the Bulletin Board app
 - [ ] Next steps
