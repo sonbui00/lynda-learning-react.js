@@ -25,5 +25,5 @@
   + [x] Updating components
   + [x] Loading data
   + [x] Style enhancements
-  + [ ] Launching the Bulletin Board app
+  + [x] Launching the Bulletin Board app
 - [ ] Next steps
