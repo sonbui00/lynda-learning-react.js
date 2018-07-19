@@ -23,7 +23,7 @@
 - [ ] Chapter 06
   + [x] Overview of the component lifecycle
   + [x] Updating components
-  + [ ] Loading data
+  + [x] Loading data
   + [ ] Style enhancements
   + [ ] Launching the Bulletin Board app
 - [ ] Next steps
