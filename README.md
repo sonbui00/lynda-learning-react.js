@@ -21,7 +21,7 @@
   + [x] Remove notes
   + [x] Adding notes
 - [ ] Chapter 06
-  + [ ] Overview of the component lifecycle
+  + [x] Overview of the component lifecycle
   + [ ] Updating components
   + [ ] Loading data
   + [ ] Style enhancements
